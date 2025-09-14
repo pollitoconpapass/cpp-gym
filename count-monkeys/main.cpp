@@ -1,3 +1,7 @@
+/*
+Task: Given a number, return a vector with all the numbers from 1 to n
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;

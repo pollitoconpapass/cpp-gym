@@ -1,3 +1,7 @@
+/*
+Task: Find the even numbers inside a vector and return the count
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

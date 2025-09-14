@@ -1,3 +1,8 @@
+/*
+Task: Find whether a number is prime or not
+Also, return the prime numbers from 0 to n
+*/
+
 #include <iostream>
 #include <math.h>
 #include <vector>

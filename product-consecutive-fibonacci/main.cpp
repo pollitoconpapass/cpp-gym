@@ -25,6 +25,8 @@ Examples:
 
 800 --->  (34, 55, false)
 --> since F(8) = 21, F(9) = 34, F(10) = 55 and 21 * 34 < 800 < 34 * 55
+
+LINK: https://www.codewars.com/kata/5541f58a944b85ce6d00006a
 */
 #include <iostream>
 #include <vector>

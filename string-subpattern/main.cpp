@@ -11,7 +11,7 @@ For example:
 "babababababababa" ==> "ab"; // remember to return the base string sorted
 "bbabbaaabbaaaabb" ==> "ab"; // same as above, just shuffled
 
-LINK: https://www.codewars.com/kata/5a4a2973d8e14586c700000a/train/cpp
+LINK: https://www.codewars.com/kata/5a4a2973d8e14586c700000a/cpp
 */
 
 #include <iostream>

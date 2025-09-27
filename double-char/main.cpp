@@ -5,6 +5,8 @@ Examples (Input -> Output):
 "String"      -> "SSttrriinngg"
 "Hello World" -> "HHeelllloo  WWoorrlldd"
 "1234!_ "     -> "11223344!!__  "
+
+LINK: https://www.codewars.com/kata/56b1f01c247c01db92000076
 */
 #include <iostream>
 using namespace std;

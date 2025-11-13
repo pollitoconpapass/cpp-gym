@@ -5,6 +5,8 @@
  "Hey fellow warriors"  --> "Hey wollef sroirraw"
  "This is a test        --> "This is a test"
  "This is another test" --> "This is rehtona test"
+
+ LINK: https://www.codewars.com/kata/5264d2b162488dc400000001
  */
 #include <iostream>
 #include <sstream>
